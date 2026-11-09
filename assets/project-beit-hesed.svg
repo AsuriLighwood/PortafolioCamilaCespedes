@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="30" y1="31" x2="564" y2="572" gradientUnits="userSpaceOnUse"><stop stop-color="#F2D8C6"/><stop offset="1" stop-color="#DCA99A"/></linearGradient>
+    <linearGradient id="wall" x1="136" y1="123" x2="462" y2="478" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF4E7"/><stop offset="1" stop-color="#E9C9AF"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="477" cy="111" r="77" fill="#F8EBDA" fill-opacity=".72"/>
+  <path d="M92 468c116-43 240-38 417 3v129H92V468Z" fill="#A87962" fill-opacity=".27"/>
+  <path d="M139 171h326v296H139V171Z" fill="url(#wall)"/>
+  <path d="M139 171h326v37H139v-37Z" fill="#6F4A35"/>
+  <path d="m116 177 185-82 186 82H116Z" fill="#503623"/>
+  <path d="M164 220h127v166H164V220Zm145 0h129v166H309V220Z" fill="#D7A890"/>
+  <path d="M177 232h100v143H177V232Zm144 0h104v143H321V232Z" fill="#F5E9D9"/>
+  <path d="M206 271c22-26 54-26 75 0v103h-75V271Zm135-3c22-28 55-28 77 0v107h-77V268Z" fill="#C68C73"/>
+  <path d="M195 296h68m79 0h82" stroke="#E8C4A7" stroke-width="4"/>
+  <path d="M199 342h78m65 0h78" stroke="#754E39" stroke-width="3" opacity=".65"/>
+  <path d="M173 413h255v14H173z" fill="#BA826A"/>
+  <path d="M189 427v40m224-40v40" stroke="#70513B" stroke-width="7"/>
+  <path d="M239 257v51m-25-26h51" stroke="#B65D65" stroke-linecap="round" stroke-width="8"/>
+  <text x="302" y="156" fill="#FFF2E5" font-family="Georgia,serif" font-size="21" font-style="italic" text-anchor="middle">Beit Hesed</text>
+  <path d="M87 326c15-15 28-15 43 0-15 15-28 15-43 0Zm21-21v43" stroke="#FFF8EC" stroke-width="3" stroke-linecap="round"/>
+  <path d="M468 367c12-12 23-12 35 0-12 12-23 12-35 0Zm18-18v36" stroke="#FFF8EC" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="121" cy="130" r="4" fill="#FFF8EC"/><circle cx="491" cy="235" r="4" fill="#FFF8EC"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="10" x2="530" y2="600" gradientUnits="userSpaceOnUse"><stop stop-color="#F5D6CA"/><stop offset="1" stop-color="#E9A6A0"/></linearGradient>
+    <linearGradient id="cup" x1="210" y1="164" x2="420" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF6E7"/><stop offset="1" stop-color="#EACBB4"/></linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="485" cy="104" r="104" fill="#F9E8D9" fill-opacity=".55"/>
+  <ellipse cx="306" cy="488" rx="157" ry="25" fill="#9E5D58" fill-opacity=".18"/>
+  <path d="M231 174h147l-21 260c-2 20-19 35-39 35h-27c-20 0-36-15-38-35l-22-260Z" fill="url(#cup)"/>
+  <path d="M225 172c0-15 12-27 27-27h106c15 0 27 12 27 27v18H225v-18Z" fill="#FFF8ED"/>
+  <path d="M240 209h129l-13 153H252l-12-153Z" fill="#D45F73"/>
+  <path d="M259 300c8-39 44-68 75-38 22 22 3 63-41 82-21-9-39-24-34-44Z" fill="#F4C2C2"/>
+  <path d="M293 318c-9-20-19-40-37-53m37 53c13-23 27-40 48-49" stroke="#82644F" stroke-width="3" stroke-linecap="round"/>
+  <path d="m301 321-13 92h50l-15-92" fill="#F5E7D7" stroke="#C9A98D" stroke-width="4"/>
+  <path d="M282 420h64l25 56H260l22-56Z" fill="#BB795F"/>
+  <path d="M269 442h91m-100 17h110" stroke="#E7B18F" stroke-width="5"/>
+  <path d="M274 253c17 12 45 14 65 0" stroke="#FFF8ED" stroke-linecap="round" stroke-width="4"/>
+  <text x="298" y="236" fill="#FFF8ED" font-family="Georgia,serif" font-size="17" font-style="italic" text-anchor="middle">HESED MATOK</text>
+  <text x="299" y="386" fill="#FFF8ED" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" text-anchor="middle">HELADO ARTESANAL</text>
+  <path d="M101 173c16-16 30-16 45 0-15 17-29 17-45 0Zm22-22v45" stroke="#FFF7EB" stroke-width="3" stroke-linecap="round"/>
+  <path d="M463 359c13-13 24-13 36 0-12 13-23 13-36 0Zm18-18v36" stroke="#FFF7EB" stroke-width="3" stroke-linecap="round"/>
+</svg>
